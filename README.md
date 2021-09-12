@@ -1,5 +1,6 @@
 # coding-challenge
-Simple console version of a painting JAVA program.
+
+Simple console version of a painting JAVA program
 
 Coding challenge Introduction to the problem
 
