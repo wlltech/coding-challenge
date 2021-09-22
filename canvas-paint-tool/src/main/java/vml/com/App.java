@@ -1,9 +1,16 @@
 package vml.com;
 
-public class App 
+import java.util.Scanner;
+
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Scanner get = new Scanner(System.in);
+
+        double w;
+        double h;
+
+        System.out.println( "Ingrese la opción: " );
     }
 }
